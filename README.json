@@ -1,0 +1,1396 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "mypy",
+          "description": "Optional static typing (PEP 484).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T14:21:26Z",
+            "owner": "python",
+            "repo": "mypy",
+            "stars": 20592
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ty",
+          "description": "An extremely fast Python type checker, written in Rust, from the creators of Ruff and uv.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T00:40:31Z",
+            "owner": "astral-sh",
+            "repo": "ty",
+            "stars": 19456
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pyright",
+          "description": "Fast type checker meant for large Python source bases. It can run in a “watch” mode and performs fast incremental updates when files are modified.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T22:59:38Z",
+            "owner": "microsoft",
+            "repo": "pyright",
+            "stars": 15584
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pyrefly",
+          "description": "A fast type checker and language server for Python.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T16:23:31Z",
+            "owner": "facebook",
+            "repo": "pyrefly",
+            "stars": 6882
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pytype",
+          "description": "Tool to check and infer types - without requiring type annotations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-16T14:08:32Z",
+            "owner": "google",
+            "repo": "pytype",
+            "stars": 5029
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "basedpyright",
+          "description": "Pyright fork with improvements to VSCode support and various other fixes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T16:47:21Z",
+            "owner": "DetachHead",
+            "repo": "basedpyright",
+            "stars": 3524
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pylyzer",
+          "description": "A fast static code analyzer & language server for Python, written in Rust.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-05-10T02:10:33Z",
+            "owner": "mtshiba",
+            "repo": "pylyzer",
+            "stars": 2860
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "zuban",
+          "description": "A Mypy-compatible Python type checker and Language Server built in Rust.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T21:37:34Z",
+            "owner": "zubanls",
+            "repo": "zuban",
+            "stars": 1159
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pyanalyze",
+          "description": "Extensible static analyzer and type checker.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-27T19:52:37Z",
+            "owner": "quora",
+            "repo": "pyanalyze",
+            "stars": 386
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "basedmypy",
+          "description": "Based static typing with baseline functionality.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-09-10T06:25:04Z",
+            "owner": "KotlinIsland",
+            "repo": "basedmypy",
+            "stars": 201
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pycroscope",
+          "description": "A semi-static type checker for Python code. It imports the modules it type checks, enabling to understand many dynamic constructs that other type checkers will reject. This makes it possible to extend with plugins that interact directly with your code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T16:42:09Z",
+            "owner": "JelleZijlstra",
+            "repo": "pycroscope",
+            "stars": 46
+          }
+        }
+      ],
+      "title": "Static type checkers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "pydantic",
+          "description": "Data parsing using Python type hinting. Supports dataclasses.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T14:57:09Z",
+            "owner": "pydantic",
+            "repo": "pydantic",
+            "stars": 28530
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "beartype",
+          "description": "Unbearably fast runtime type-checking in pure Python.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T06:42:21Z",
+            "owner": "beartype",
+            "repo": "beartype",
+            "stars": 3482
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "typeguard",
+          "description": "Another one runtime type checker.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-26T08:39:40Z",
+            "owner": "agronholm",
+            "repo": "typeguard",
+            "stars": 1778
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pytypes",
+          "description": "Provides a rich set of utilities for runtime typechecking.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-04-29T10:03:46Z",
+            "owner": "Stewori",
+            "repo": "pytypes",
+            "stars": 203
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "typical",
+          "description": "Data parsing and automatic type-coercion using type hinting. Supports dataclasses, standard classes, function signatures, and more.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2024-09-09T15:57:02Z",
+            "owner": "seandstewart",
+            "repo": "typical",
+            "stars": 181
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "strongtyping",
+          "description": "Decorator which checks whether the function is called with the correct type of parameters.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-08T19:11:17Z",
+            "owner": "FelixTheC",
+            "repo": "strongtyping",
+            "stars": 121
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "trycast",
+          "description": "Parse JSON-like values whose shape is defined by typed dictionaries (TypedDicts) and other standard Python type hints.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-10T15:14:07Z",
+            "owner": "davidfstr",
+            "repo": "trycast",
+            "stars": 88
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "typedpy",
+          "description": "Type-safe, strict Python. Works well with standard Python.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-09-24T01:35:03Z",
+            "owner": "loyada",
+            "repo": "typedpy",
+            "stars": 17
+          }
+        }
+      ],
+      "title": "Dynamic type checkers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "boto3-stubs",
+          "description": "Stubs for boto3.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T19:21:53Z",
+            "owner": "boto",
+            "repo": "boto3",
+            "stars": 9871
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "typeshed",
+          "description": "Collection of library stubs, with static types.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T12:56:40Z",
+            "owner": "python",
+            "repo": "typeshed",
+            "stars": 5108
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-stubs",
+          "description": "Stubs for Django.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T12:16:27Z",
+            "owner": "typeddjango",
+            "repo": "django-stubs",
+            "stars": 1965
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "asgiref",
+          "description": "ASGI specification, provides asgiref.typing module with type annotations for ASGI servers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T09:04:53Z",
+            "owner": "django",
+            "repo": "asgiref",
+            "stars": 1628
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "torchtyping",
+          "description": "Enhanced type annotations for PyTorch.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-02T08:44:58Z",
+            "owner": "patrick-kidger",
+            "repo": "torchtyping",
+            "stars": 1484
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "types-aiobotocore",
+          "description": "Stubs for aiobotocore.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-09T14:43:50Z",
+            "owner": "aio-libs",
+            "repo": "aiobotocore",
+            "stars": 1423
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sqlalchemy-stubs",
+          "description": "Stubs for SQLAlchemy.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-06-10T23:08:27Z",
+            "owner": "dropbox",
+            "repo": "sqlalchemy-stubs",
+            "stars": 584
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "djangorestframework-stubs",
+          "description": "Stubs for DRF.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T10:40:26Z",
+            "owner": "typeddjango",
+            "repo": "djangorestframework-stubs",
+            "stars": 539
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "celery-types",
+          "description": "Type stubs for Celery and its related packages django-celery-results, ampq, kombu, billiard, vine and ephem.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-29T01:32:36Z",
+            "owner": "sbdchd",
+            "repo": "celery-types",
+            "stars": 156
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "scipy-stubs",
+          "description": "Stubs for SciPy.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T17:41:47Z",
+            "owner": "scipy",
+            "repo": "scipy-stubs",
+            "stars": 93
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "botostubs",
+          "description": "Gives you code assistance for any boto3 API in any IDE.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-02-07T23:09:59Z",
+            "owner": "jeshan",
+            "repo": "botostubs",
+            "stars": 92
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PyQt5-stubs",
+          "description": "Stubs for PyQt5.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-07-23T09:38:54Z",
+            "owner": "python-qt-tools",
+            "repo": "PyQt5-stubs",
+            "stars": 71
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lxml-stubs",
+          "description": "Stubs for lxml.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2026-05-13T04:28:52Z",
+            "owner": "lxml",
+            "repo": "lxml-stubs",
+            "stars": 51
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "grpc-stubs",
+          "description": "Stubs for grpc.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2025-04-28T11:08:53Z",
+            "owner": "shabbyrobe",
+            "repo": "grpc-stubs",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pythonista-stubs",
+          "description": "Stubs for Pythonista.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-08-13T13:31:51Z",
+            "owner": "hbmartin",
+            "repo": "pythonista-stubs",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "python-phonenumbers-stubs",
+          "description": "Stubs for phonenumbers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-09-01T18:10:21Z",
+            "owner": "AA-Turner",
+            "repo": "python-phonenumbers-stubs",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Stub packages"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "returns",
+          "description": "Make your functions return something meaningful, typed, and safe.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T16:10:48Z",
+            "owner": "dry-python",
+            "repo": "returns",
+            "stars": 4346
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "phantom-types",
+          "description": "Phantom types.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-01T22:09:38Z",
+            "owner": "antonagestam",
+            "repo": "phantom-types",
+            "stars": 234
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "useful-types",
+          "description": "Collection of useful protocols and type aliases.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-06T19:26:56Z",
+            "owner": "hauntsaninja",
+            "repo": "useful_types",
+            "stars": 152
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "option",
+          "description": "Rust like Option and Result types.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-01-01T17:03:27Z",
+            "owner": "MaT1g3R",
+            "repo": "option",
+            "stars": 103
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "optype",
+          "description": "Opinionated and alternative: Flexible single-method protocols and typed operators with predictable names.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T08:44:47Z",
+            "owner": "jorenham",
+            "repo": "optype",
+            "stars": 94
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "meiga",
+          "description": "Simple, typed and monad-based Result type.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-10-22T11:17:25Z",
+            "owner": "alice-biometrics",
+            "repo": "meiga",
+            "stars": 82
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "safetywrap",
+          "description": "Fully typesafe, Rust-like Result and Option types.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-09-23T23:03:51Z",
+            "owner": "mplanchard",
+            "repo": "safetywrap",
+            "stars": 46
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "typet",
+          "description": "Length-bounded types, dynamic object validation.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2019-10-21T06:34:50Z",
+            "owner": "contains-io",
+            "repo": "typet",
+            "stars": 23
+          }
+        }
+      ],
+      "title": "Additional types"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "typing-extensions",
+          "description": "Backported and experimental type hints.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T13:12:13Z",
+            "owner": "python",
+            "repo": "typing_extensions",
+            "stars": 581
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "future-typing",
+          "description": "Backport for type hinting generics in standard collections and union types as .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-05-14T12:04:33Z",
+            "owner": "PrettyWood",
+            "repo": "future-typing",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "typing-utils",
+          "description": "Backport 3.8+ runtime typing utils(for eg: get_origin) & add issubtype & more.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-11-09T04:50:26Z",
+            "owner": "bojiang",
+            "repo": "typing_utils",
+            "stars": 12
+          }
+        }
+      ],
+      "title": "Backports and improvements"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Ruff",
+          "description": "Extremely fast linter which supports lint rules from many other lint tools, such as flake8.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T16:40:34Z",
+            "owner": "astral-sh",
+            "repo": "ruff",
+            "stars": 49185
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wemake-python-styleguide",
+          "description": "The strictest and most opinionated Python linter ever.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T05:22:25Z",
+            "owner": "wemake-services",
+            "repo": "wemake-python-styleguide",
+            "stars": 2890
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "flake8-annotations",
+          "description": "Plugin for flake8 to check for presence of type annotations in function definitions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-10T01:08:09Z",
+            "owner": "sco1",
+            "repo": "flake8-annotations",
+            "stars": 165
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "flake8-type-checking",
+          "description": "Plugin to help you guard any type-annotation-only import correctly.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-18T22:51:10Z",
+            "owner": "snok",
+            "repo": "flake8-type-checking",
+            "stars": 128
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "flake8-typing-only-imports",
+          "description": "flake8 plugin that helps identify which imports to put into type-checking blocks, and how to adjust your type annotations once imports are moved.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-18T22:51:10Z",
+            "owner": "snok",
+            "repo": "flake8-type-checking",
+            "stars": 128
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "flake8-pyi",
+          "description": "Plugin for Flake8 that provides specializations for type hinting stub files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-24T18:32:58Z",
+            "owner": "PyCQA",
+            "repo": "flake8-pyi",
+            "stars": 83
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "flake8-typing-imports",
+          "description": "Plugin which checks that typing imports are properly guarded.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-15T12:44:49Z",
+            "owner": "asottile",
+            "repo": "flake8-typing-imports",
+            "stars": 51
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "flake8-annotations-complexity",
+          "description": "Plugin for flake8 to validate annotations complexity.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-03-04T10:31:58Z",
+            "owner": "best-doctor",
+            "repo": "flake8-annotations-complexity",
+            "stars": 50
+          }
+        }
+      ],
+      "title": "Linters"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "pytest-mypy",
+          "description": "Mypy static type checker plugin for Pytest.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-13T22:31:35Z",
+            "owner": "realpython",
+            "repo": "pytest-mypy",
+            "stars": 256
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pytest-mypy-plugins",
+          "description": "Pytest plugin for testing mypy types, stubs, and plugins.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-21T02:02:30Z",
+            "owner": "typeddjango",
+            "repo": "pytest-mypy-plugins",
+            "stars": 126
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pytest-mypy-testing",
+          "description": "Pytest plugin to test mypy static type analysis.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-26T19:12:08Z",
+            "owner": "davidfritzsche",
+            "repo": "pytest-mypy-testing",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mypy-test",
+          "description": "Test mypy plugins, stubs, custom types.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-10-24T12:35:46Z",
+            "owner": "orsinium-labs",
+            "repo": "mypy-test",
+            "stars": 6
+          }
+        }
+      ],
+      "title": "Testing"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "mypyc",
+          "description": "Compiles mypy-annotated, statically typed Python modules into CPython C extensions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T14:21:26Z",
+            "owner": "python",
+            "repo": "mypy",
+            "stars": 20592
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "merge-pyi",
+          "description": "Part of pytype toolchain, applies stub files onto source code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-16T14:08:32Z",
+            "owner": "google",
+            "repo": "pytype",
+            "stars": 5029
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mypy-protobuf",
+          "description": "Tool to generate mypy stubs from protobufs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-28T00:06:58Z",
+            "owner": "nipunn1313",
+            "repo": "mypy-protobuf",
+            "stars": 708
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "typing-inspect",
+          "description": "The typing_inspect module defines experimental API for runtime inspection of types defined in the module.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-18T16:05:37Z",
+            "owner": "ilevkivskyi",
+            "repo": "typing_inspect",
+            "stars": 376
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "com2ann",
+          "description": "Tool for translation of type comments to type annotations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-06-02T23:03:18Z",
+            "owner": "ilevkivskyi",
+            "repo": "com2ann",
+            "stars": 158
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "retype",
+          "description": "Another tool to apply stubs to code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-08-14T07:12:06Z",
+            "owner": "ambv",
+            "repo": "retype",
+            "stars": 146
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "typesplainer",
+          "description": "A Python type explainer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-27T03:51:03Z",
+            "owner": "typesplainer",
+            "repo": "typesplainer",
+            "stars": 84
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mypy-baseline",
+          "description": "Integrate mypy with existing codebase. A CLI tool that filters out existing type errors and reports only new ones.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-13T08:01:59Z",
+            "owner": "orsinium-labs",
+            "repo": "mypy-baseline",
+            "stars": 82
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "typeforce",
+          "description": "CLI tool that enriches your Python environment with type annotations, empowering mypy.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-09-30T09:37:05Z",
+            "owner": "orsinium-labs",
+            "repo": "typeforce",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mypy-silent",
+          "description": "Silence mypy by adding or removing code comments.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T03:59:45Z",
+            "owner": "whtsky",
+            "repo": "mypy-silent",
+            "stars": 19
+          }
+        }
+      ],
+      "title": "Working with types"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "pytype annotate-ast",
+          "description": "A work-in-progress tool to annotate the nodes of an AST with their Python types.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-16T14:08:32Z",
+            "owner": "google",
+            "repo": "pytype",
+            "stars": 5029
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "monkeytype",
+          "description": "Collects runtime types of function arguments and return values, and can automatically generate stub files or even add draft type annotations directly to your code based on the types collected at runtime.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-11T02:19:15Z",
+            "owner": "Instagram",
+            "repo": "MonkeyType",
+            "stars": 5000
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pyannotate",
+          "description": "Insert annotations into your source code based on call arguments and return types observed at runtime.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-06T01:32:52Z",
+            "owner": "dropbox",
+            "repo": "pyannotate",
+            "stars": 1443
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RightTyper",
+          "description": "A tool that generates types for your function arguments and return values. RightTyper lets your code run at nearly full speed with almost no memory overhead.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-22T18:26:48Z",
+            "owner": "RightTyper",
+            "repo": "RightTyper",
+            "stars": 359
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "autotyping",
+          "description": "Automatically add simple return type annotations for functions (bool, None, Optional).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-09-19T14:27:24Z",
+            "owner": "JelleZijlstra",
+            "repo": "autotyping",
+            "stars": 288
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pytest-annotate",
+          "description": "Pyannotate plugin for pytest.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-06-07T16:14:53Z",
+            "owner": "kensho-technologies",
+            "repo": "pytest-annotate",
+            "stars": 113
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "no_implicit_optional",
+          "description": "A codemod to make your implicit optional type hints PEP 484 compliant.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-11-25T23:21:36Z",
+            "owner": "hauntsaninja",
+            "repo": "no_implicit_optional",
+            "stars": 109
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "infer-types",
+          "description": "CLI tool to automatically infer and add type annotations into Python code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-03-17T10:51:30Z",
+            "owner": "orsinium-labs",
+            "repo": "infer-types",
+            "stars": 101
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jsonschema-gentypes",
+          "description": "Generate Python types based on TypedDict from a JSON Schema.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T13:26:43Z",
+            "owner": "sbrunner",
+            "repo": "jsonschema-gentypes",
+            "stars": 48
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pytest-monkeytype",
+          "description": "MonkeyType plugin for pytest.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-07-29T20:47:50Z",
+            "owner": "mariusvniekerk",
+            "repo": "pytest-monkeytype",
+            "stars": 46
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "auto-optional",
+          "description": "Makes typed arguments Optional when the default argument is .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-10T13:48:41Z",
+            "owner": "Luttik",
+            "repo": "auto-optional",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PyTypes",
+          "description": "Infer Types by Python Tracing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-08-29T14:57:48Z",
+            "owner": "pvs-hd-tea",
+            "repo": "PyTypes",
+            "stars": 12
+          }
+        }
+      ],
+      "title": "Helper tools to add annotations to existing code"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "mypy/plugins",
+          "description": "Plugins already integrated into mypy.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T14:21:26Z",
+            "owner": "python",
+            "repo": "mypy",
+            "stars": 20592
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mypy-zope",
+          "description": "Plugin for zope.interface support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-15T07:11:45Z",
+            "owner": "Shoobx",
+            "repo": "mypy-zope",
+            "stars": 40
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubernetes-typed",
+          "description": "Plugin for Kubernetes CRD type checking.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-09-08T12:17:03Z",
+            "owner": "gordonbondon",
+            "repo": "kubernetes-typed",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "loguru-mypy",
+          "description": "Plugin for loguru support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-05-01T14:10:31Z",
+            "owner": "kornicameister",
+            "repo": "loguru-mypy",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pynamodb-mypy",
+          "description": "Plugin for PynamoDB support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-10-21T03:25:10Z",
+            "owner": "pynamodb",
+            "repo": "pynamodb-mypy",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "Mypy plugins"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "pylance",
+          "description": "PyRight integration for VSCode.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-29T16:35:44Z",
+            "owner": "microsoft",
+            "repo": "pylance-release",
+            "stars": 2106
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nbQA",
+          "description": "Run type checkers (e.g. Mypy) on Jupyter Notebooks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T18:32:58Z",
+            "owner": "nbQA-dev",
+            "repo": "nbQA",
+            "stars": 1203
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mypy-pycharm-plugin",
+          "description": "Mypy integration for PyCharm.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2021-06-23T20:37:47Z",
+            "owner": "dropbox",
+            "repo": "mypy-PyCharm-plugin",
+            "stars": 319
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vim-mypy",
+          "description": "Mypy integration for Vim.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "VimL",
+            "last_commit": "2019-10-08T22:47:57Z",
+            "owner": "Integralist",
+            "repo": "vim-mypy",
+            "stars": 102
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mypy-playground",
+          "description": "Online playground for mypy.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T20:56:03Z",
+            "owner": "ymyzk",
+            "repo": "mypy-playground",
+            "stars": 77
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "emacs-flycheck-mypy",
+          "description": "Mypy integration for Emacs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Emacs Lisp",
+            "last_commit": "2020-03-30T09:15:43Z",
+            "owner": "lbolla",
+            "repo": "emacs-flycheck-mypy",
+            "stars": 38
+          }
+        }
+      ],
+      "title": "Integrations"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Articles"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "awesome-python",
+          "description": "Curated list of awesome Python frameworks, libraries, software and resources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-05T06:11:04Z",
+            "owner": "vinta",
+            "repo": "awesome-python",
+            "stars": 313757
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "python-typecheckers",
+          "description": "List of Python type checkers: static and runtime.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-03-19T05:34:30Z",
+            "owner": "emmatyping",
+            "repo": "python-typecheckers",
+            "stars": 74
+          }
+        }
+      ],
+      "title": "Related"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T16:49:22.816Z",
+    "original_repository": "typeddjango/awesome-python-typing",
+    "original_repository_sha": "8407aa965dcfe409c69c7974f8dfb3f8ed3b4c03",
+    "enhanced_repository": "enhansome/enhansome-python-typing",
+    "enhanced_repository_description": null,
+    "title": "Awesome Python Typing with stars"
+  }
+}
