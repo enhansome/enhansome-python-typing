@@ -18,14 +18,14 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 
 ## Static type checkers
 
-* [mypy](https://github.com/python/mypy) ⭐ 20,669 | 🐛 3,239 | 🌐 Python | 📅 2026-10-05 - Optional static typing (PEP 484).
-* [ty](https://github.com/astral-sh/ty) ⭐ 19,803 | 🐛 925 | 🌐 Python | 📅 2026-10-05 - An extremely fast Python type checker, written in Rust, from the creators of Ruff and uv.
-* [pyright](https://github.com/Microsoft/pyright) ⭐ 15,680 | 🐛 340 | 🌐 Python | 📅 2026-10-05 - Fast type checker meant for large Python source bases. It can run in a “watch” mode and performs fast incremental updates when files are modified.
-* [pyrefly](https://github.com/facebook/pyrefly) ⭐ 7,047 | 🐛 695 | 🌐 Rust | 📅 2026-10-05 - A fast type checker and language server for Python.
+* [mypy](https://github.com/python/mypy) ⭐ 20,671 | 🐛 3,240 | 🌐 Python | 📅 2026-10-06 - Optional static typing (PEP 484).
+* [ty](https://github.com/astral-sh/ty) ⭐ 19,809 | 🐛 927 | 🌐 Python | 📅 2026-10-05 - An extremely fast Python type checker, written in Rust, from the creators of Ruff and uv.
+* [pyright](https://github.com/Microsoft/pyright) ⭐ 15,679 | 🐛 340 | 🌐 Python | 📅 2026-10-05 - Fast type checker meant for large Python source bases. It can run in a “watch” mode and performs fast incremental updates when files are modified.
+* [pyrefly](https://github.com/facebook/pyrefly) ⭐ 7,049 | 🐛 693 | 🌐 Rust | 📅 2026-10-05 - A fast type checker and language server for Python.
 * [pytype](https://github.com/google/pytype) ⚠️ Archived - Tool to check and infer types - without requiring type annotations.
-* [basedpyright](https://github.com/detachhead/basedpyright) ⭐ 3,621 | 🐛 649 | 🌐 TypeScript | 📅 2026-10-04 - Pyright fork with improvements to VSCode support and various other fixes.
+* [basedpyright](https://github.com/detachhead/basedpyright) ⭐ 3,622 | 🐛 649 | 🌐 TypeScript | 📅 2026-10-04 - Pyright fork with improvements to VSCode support and various other fixes.
 * [pylyzer](https://github.com/mtshiba/pylyzer/) ⭐ 2,857 | 🐛 10 | 🌐 Rust | 📅 2025-05-10 - A fast static code analyzer & language server for Python, written in Rust.
-* [zuban](https://github.com/zubanls/zuban) ⭐ 1,210 | 🐛 87 | 🌐 Rust | 📅 2026-10-05 - A Mypy-compatible Python type checker and Language Server built in Rust.
+* [zuban](https://github.com/zubanls/zuban) ⭐ 1,212 | 🐛 88 | 🌐 Rust | 📅 2026-10-05 - A Mypy-compatible Python type checker and Language Server built in Rust.
 * [pyanalyze](https://github.com/quora/pyanalyze) ⭐ 386 | 🐛 61 | 🌐 Python | 📅 2026-01-27 - Extensible static analyzer and type checker.
 * [basedmypy](https://github.com/KotlinIsland/basedmypy) ⭐ 202 | 🐛 435 | 🌐 Python | 📅 2025-09-10 - Based static typing with baseline functionality.
 * [pycroscope](https://github.com/JelleZijlstra/pycroscope) ⭐ 48 | 🐛 9 | 🌐 Python | 📅 2026-10-02 - A semi-static type checker for Python code. It imports the modules it type checks, enabling `pycroscope` to understand many dynamic constructs that other type checkers will reject. This makes it possible to extend `pycroscope` with plugins that interact directly with your code.
@@ -33,8 +33,8 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 
 ## Dynamic type checkers
 
-* [pydantic](https://github.com/samuelcolvin/pydantic) ⭐ 28,942 | 🐛 588 | 🌐 Python | 📅 2026-10-05 - Data parsing using Python type hinting. Supports dataclasses.
-* [beartype](https://github.com/beartype/beartype) ⭐ 3,505 | 🐛 134 | 🌐 Python | 📅 2026-10-03 - Unbearably fast `O(1)` runtime type-checking in pure Python.
+* [pydantic](https://github.com/samuelcolvin/pydantic) ⭐ 28,945 | 🐛 589 | 🌐 Python | 📅 2026-10-05 - Data parsing using Python type hinting. Supports dataclasses.
+* [beartype](https://github.com/beartype/beartype) ⭐ 3,506 | 🐛 132 | 🌐 Python | 📅 2026-10-06 - Unbearably fast `O(1)` runtime type-checking in pure Python.
 * [typeguard](https://github.com/agronholm/typeguard) ⭐ 1,792 | 🐛 50 | 🌐 Python | 📅 2026-10-05 - Another one runtime type checker.
 * [pytypes](https://github.com/Stewori/pytypes) ⭐ 203 | 🐛 39 | 🌐 Python | 📅 2023-04-29 - Provides a rich set of utilities for runtime typechecking.
 * [typical](https://github.com/seandstewart/typical/) ⚠️ Archived - Data parsing and automatic type-coercion using type hinting. Supports dataclasses, standard classes, function signatures, and more.
@@ -46,26 +46,26 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 ## Stub packages
 
 * [boto3-stubs](https://vemel.github.io/boto3_stubs_docs/) - Stubs for [boto3](https://github.com/boto/boto3) ⭐ 9,911 | 🐛 191 | 🌐 Python | 📅 2026-10-02.
-* [typeshed](https://github.com/python/typeshed) ⭐ 5,128 | 🐛 365 | 🌐 Python | 📅 2026-10-05 - Collection of library stubs, with static types.
-* [django-stubs](https://github.com/typeddjango/django-stubs) ⭐ 1,977 | 🐛 179 | 🌐 Python | 📅 2026-10-05 - Stubs for [Django](https://github.com/django/django) ⭐ 91,324 | 🐛 531 | 🌐 Python | 📅 2026-10-05.
+* [typeshed](https://github.com/python/typeshed) ⭐ 5,128 | 🐛 367 | 🌐 Python | 📅 2026-10-06 - Collection of library stubs, with static types.
+* [django-stubs](https://github.com/typeddjango/django-stubs) ⭐ 1,978 | 🐛 178 | 🌐 Python | 📅 2026-10-06 - Stubs for [Django](https://github.com/django/django) ⭐ 91,341 | 🐛 531 | 🌐 Python | 📅 2026-10-05.
 * [asgiref](https://github.com/django/asgiref) ⭐ 1,631 | 🐛 68 | 🌐 Python | 📅 2026-09-28 - ASGI specification, provides [asgiref.typing](https://github.com/django/asgiref/blob/main/asgiref/typing.py) ⭐ 1,631 | 🐛 68 | 🌐 Python | 📅 2026-09-28 module with type annotations for ASGI servers.
 * [torchtyping](https://github.com/patrick-kidger/torchtyping) ⭐ 1,486 | 🐛 16 | 🌐 Python | 📅 2025-05-02 - Enhanced type annotations for [PyTorch](https://pytorch.org/).
 * [types-aiobotocore](https://vemel.github.io/types_aiobotocore_docs/) - Stubs for [aiobotocore](https://github.com/aio-libs/aiobotocore) ⭐ 1,426 | 🐛 22 | 🌐 Python | 📅 2026-10-05.
-* [sqlalchemy-stubs](https://github.com/dropbox/sqlalchemy-stubs) ⭐ 585 | 🐛 87 | 🌐 Python | 📅 2024-06-10 - Stubs for [SQLAlchemy](https://github.com/sqlalchemy/sqlalchemy) ⭐ 12,201 | 🐛 217 | 🌐 Python | 📅 2026-10-05.
-* [djangorestframework-stubs](https://github.com/typeddjango/djangorestframework-stubs) ⭐ 541 | 🐛 65 | 🌐 Python | 📅 2026-10-05 - Stubs for [DRF](https://github.com/encode/django-rest-framework) ⭐ 30,201 | 🐛 49 | 🌐 Python | 📅 2026-10-05.
-* [celery-types](https://github.com/sbdchd/celery-types) ⭐ 157 | 🐛 14 | 🌐 Python | 📅 2026-09-26 - Type stubs for [Celery](https://github.com/celery/celery) ⭐ 28,938 | 🐛 736 | 🌐 Python | 📅 2026-10-05 and its related packages [django-celery-results](https://github.com/celery/django-celery-results) ⭐ 785 | 🐛 64 | 🌐 Python | 📅 2026-10-05, [ampq](https://github.com/celery/py-amqp) ⭐ 314 | 🐛 38 | 🌐 Python | 📅 2026-10-05, [kombu](https://github.com/celery/kombu) ⭐ 3,147 | 🐛 213 | 🌐 Python | 📅 2026-10-05, [billiard](https://github.com/celery/billiard) ⭐ 434 | 🐛 83 | 🌐 Python | 📅 2026-10-05, [vine](https://github.com/celery/vine) ⭐ 127 | 🐛 12 | 🌐 Python | 📅 2026-10-05 and [ephem](https://github.com/brandon-rhodes/pyephem) ⭐ 897 | 🐛 5 | 🌐 C | 📅 2026-04-30.
-* [scipy-stubs](https://github.com/jorenham/scipy-stubs) ⭐ 95 | 🐛 14 | 🌐 Python | 📅 2026-10-05 - Stubs for [SciPy](https://github.com/scipy/scipy) ⭐ 15,077 | 🐛 1,859 | 🌐 Python | 📅 2026-10-05.
+* [sqlalchemy-stubs](https://github.com/dropbox/sqlalchemy-stubs) ⭐ 585 | 🐛 87 | 🌐 Python | 📅 2024-06-10 - Stubs for [SQLAlchemy](https://github.com/sqlalchemy/sqlalchemy) ⭐ 12,201 | 🐛 215 | 🌐 Python | 📅 2026-10-06.
+* [djangorestframework-stubs](https://github.com/typeddjango/djangorestframework-stubs) ⭐ 541 | 🐛 65 | 🌐 Python | 📅 2026-10-06 - Stubs for [DRF](https://github.com/encode/django-rest-framework) ⭐ 30,201 | 🐛 50 | 🌐 Python | 📅 2026-10-05.
+* [celery-types](https://github.com/sbdchd/celery-types) ⭐ 157 | 🐛 14 | 🌐 Python | 📅 2026-09-26 - Type stubs for [Celery](https://github.com/celery/celery) ⭐ 28,937 | 🐛 731 | 🌐 Python | 📅 2026-10-06 and its related packages [django-celery-results](https://github.com/celery/django-celery-results) ⭐ 785 | 🐛 64 | 🌐 Python | 📅 2026-10-05, [ampq](https://github.com/celery/py-amqp) ⭐ 314 | 🐛 38 | 🌐 Python | 📅 2026-10-05, [kombu](https://github.com/celery/kombu) ⭐ 3,147 | 🐛 214 | 🌐 Python | 📅 2026-10-06, [billiard](https://github.com/celery/billiard) ⭐ 434 | 🐛 83 | 🌐 Python | 📅 2026-10-05, [vine](https://github.com/celery/vine) ⭐ 127 | 🐛 11 | 🌐 Python | 📅 2026-10-06 and [ephem](https://github.com/brandon-rhodes/pyephem) ⭐ 897 | 🐛 5 | 🌐 C | 📅 2026-04-30.
+* [scipy-stubs](https://github.com/jorenham/scipy-stubs) ⭐ 95 | 🐛 13 | 🌐 Python | 📅 2026-10-06 - Stubs for [SciPy](https://github.com/scipy/scipy) ⭐ 15,079 | 🐛 1,860 | 🌐 Python | 📅 2026-10-06.
 * [botostubs](https://github.com/jeshan/botostubs) ⭐ 91 | 🐛 11 | 🌐 Python | 📅 2023-02-07 - Gives you code assistance for any boto3 API in any IDE.
 * [PyQt5-stubs](https://github.com/stlehmann/PyQt5-stubs) ⭐ 71 | 🐛 13 | 🌐 Python | 📅 2023-07-23 - Stubs for [PyQt5](https://www.riverbankcomputing.com/software/pyqt/intro).
 * [lxml-stubs](https://github.com/lxml/lxml-stubs) ⚠️ Archived - Stubs for [lxml](https://lxml.de).
-* [grpc-stubs](https://github.com/shabbyrobe/grpc-stubs) ⚠️ Archived - Stubs for [grpc](https://github.com/grpc/grpc) ⭐ 45,365 | 🐛 1,362 | 🌐 C++ | 📅 2026-10-05.
+* [grpc-stubs](https://github.com/shabbyrobe/grpc-stubs) ⚠️ Archived - Stubs for [grpc](https://github.com/grpc/grpc) ⭐ 45,365 | 🐛 1,359 | 🌐 C++ | 📅 2026-10-06.
 * [pythonista-stubs](https://github.com/hbmartin/pythonista-stubs) ⭐ 23 | 🐛 6 | 🌐 Python | 📅 2025-08-13 - Stubs for [Pythonista](http://omz-software.com/pythonista/docs/ios/).
 * [python-phonenumbers-stubs](https://github.com/AA-Turner/python-phonenumbers-stubs) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2021-09-01 - Stubs for [phonenumbers](https://github.com/daviddrysdale/python-phonenumbers) ⭐ 3,774 | 🐛 11 | 🌐 Python | 📅 2026-09-24.
 * [sqlalchemy2-stubs](https://docs.sqlalchemy.org/en/14/orm/extensions/mypy.html) - Official stubs and mypy plugin for [SQLAlchemy](https://www.sqlalchemy.org).
 
 ## Additional types
 
-* [returns](https://github.com/dry-python/returns) ⭐ 4,375 | 🐛 81 | 🌐 Python | 📅 2026-10-05 - Make your functions return something meaningful, typed, and safe.
+* [returns](https://github.com/dry-python/returns) ⭐ 4,375 | 🐛 83 | 🌐 Python | 📅 2026-10-05 - Make your functions return something meaningful, typed, and safe.
 * [phantom-types](https://github.com/antonagestam/phantom-types) ⭐ 233 | 🐛 17 | 🌐 Python | 📅 2026-01-01 - Phantom types.
 * [useful-types](https://github.com/hauntsaninja/useful_types) ⭐ 153 | 🐛 20 | 🌐 Python | 📅 2026-10-05 - Collection of useful protocols and type aliases.
 * [option](https://github.com/MaT1g3R/option) ⭐ 103 | 🐛 8 | 🌐 Python | 📅 2024-01-01 - Rust like Option and Result types.
@@ -76,7 +76,7 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 
 ## Backports and improvements
 
-* [typing-extensions](https://github.com/python/typing_extensions) ⭐ 586 | 🐛 19 | 🌐 Python | 📅 2026-08-31 - Backported and experimental type hints.
+* [typing-extensions](https://github.com/python/typing_extensions) ⭐ 586 | 🐛 20 | 🌐 Python | 📅 2026-10-06 - Backported and experimental type hints.
 * [future-typing](https://github.com/PrettyWood/future-typing) ⭐ 20 | 🐛 5 | 🌐 Python | 📅 2021-05-14 - Backport for type hinting generics in standard collections and union types as `X | Y`.
 * [typing-utils](https://github.com/bojiang/typing_utils) ⭐ 12 | 🐛 2 | 🌐 Python | 📅 2022-11-09 - Backport 3.8+ runtime typing utils(for eg: get\_origin) & add issubtype & more.
 
@@ -84,14 +84,14 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 
 ### Linters
 
-* [Ruff](https://github.com/astral-sh/ruff/) ⭐ 49,920 | 🐛 2,193 | 🌐 Rust | 📅 2026-10-05 - Extremely fast linter which supports lint rules from many other lint tools, such as flake8.
-* [wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide) ⭐ 2,918 | 🐛 14 | 🌐 Python | 📅 2026-10-05 - The strictest and most opinionated Python linter ever.
+* [Ruff](https://github.com/astral-sh/ruff/) ⭐ 49,926 | 🐛 2,191 | 🌐 Rust | 📅 2026-10-06 - Extremely fast linter which supports lint rules from many other lint tools, such as flake8.
+* [wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide) ⭐ 2,918 | 🐛 16 | 🌐 Python | 📅 2026-10-06 - The strictest and most opinionated Python linter ever.
 * [flake8-annotations](https://github.com/sco1/flake8-annotations) ⭐ 165 | 🐛 1 | 🌐 Python | 📅 2026-10-05 - Plugin for flake8 to check for presence of type annotations in function definitions.
 * [flake8-type-checking](https://github.com/snok/flake8-type-checking) ⭐ 128 | 🐛 5 | 🌐 Python | 📅 2026-09-29 - Plugin to help you guard any type-annotation-only import correctly.
 * [flake8-typing-only-imports](https://github.com/sondrelg/flake8-typing-only-imports) ⭐ 128 | 🐛 5 | 🌐 Python | 📅 2026-09-29 - flake8 plugin that helps identify which imports to put into type-checking blocks, and how to adjust your type annotations once imports are moved.
-* [flake8-pyi](https://github.com/ambv/flake8-pyi) ⭐ 84 | 🐛 23 | 🌐 Python | 📅 2026-07-24 - Plugin for Flake8 that provides specializations for type hinting stub files.
+* [flake8-pyi](https://github.com/ambv/flake8-pyi) ⭐ 84 | 🐛 24 | 🌐 Python | 📅 2026-10-06 - Plugin for Flake8 that provides specializations for type hinting stub files.
 * [flake8-annotations-complexity](https://github.com/best-doctor/flake8-annotations-complexity) ⭐ 51 | 🐛 3 | 🌐 Python | 📅 2026-08-14 - Plugin for flake8 to validate annotations complexity.
-* [flake8-typing-imports](https://github.com/asottile/flake8-typing-imports) ⭐ 51 | 🐛 0 | 🌐 Python | 📅 2026-09-29 - Plugin which checks that typing imports are properly guarded.
+* [flake8-typing-imports](https://github.com/asottile/flake8-typing-imports) ⭐ 51 | 🐛 1 | 🌐 Python | 📅 2026-10-06 - Plugin which checks that typing imports are properly guarded.
 * [flake8-type-ignore](https://gitlab.com/jonafato/flake8-type-ignore/) - flake8 plugin to disallow type: ignore comments in your typed Python code.
 
 ### Testing
@@ -103,7 +103,7 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 
 ### Working with types
 
-* [mypyc](https://github.com/python/mypy/tree/master/mypyc) ⭐ 20,669 | 🐛 3,239 | 🌐 Python | 📅 2026-10-05 - Compiles mypy-annotated, statically typed Python modules into CPython C extensions.
+* [mypyc](https://github.com/python/mypy/tree/master/mypyc) ⭐ 20,671 | 🐛 3,240 | 🌐 Python | 📅 2026-10-06 - Compiles mypy-annotated, statically typed Python modules into CPython C extensions.
 * [merge-pyi](https://github.com/google/pytype/tree/master/pytype/tools/merge_pyi) ⚠️ Archived - Part of pytype toolchain, applies stub files onto source code.
 * [mypy-protobuf](https://github.com/dropbox/mypy-protobuf) ⭐ 709 | 🐛 30 | 🌐 Python | 📅 2026-09-17 - Tool to generate mypy stubs from protobufs.
 * [typing-inspect](https://github.com/ilevkivskyi/typing_inspect) ⭐ 375 | 🐛 23 | 🌐 Python | 📅 2026-01-18 - The typing\_inspect module defines experimental API for runtime inspection of types defined in the `typing` module.
@@ -112,7 +112,7 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 * [typesplainer](https://github.com/wasi-master/typesplainer) ⭐ 85 | 🐛 0 | 🌐 Python | 📅 2026-05-27 - A Python type explainer.
 * [mypy-baseline](https://github.com/orsinium-labs/mypy-baseline) ⭐ 82 | 🐛 1 | 🌐 Python | 📅 2026-04-13 - Integrate mypy with existing codebase. A CLI tool that filters out existing type errors and reports only new ones.
 * [typeforce](https://github.com/orsinium-labs/typeforce) ⭐ 21 | 🐛 0 | 🌐 Python | 📅 2022-09-30 - CLI tool that enriches your Python environment with type annotations, empowering mypy.
-* [mypy-silent](https://github.com/whtsky/mypy-silent/) ⭐ 19 | 🐛 13 | 🌐 Python | 📅 2026-10-02 - Silence mypy by adding or removing code comments.
+* [mypy-silent](https://github.com/whtsky/mypy-silent/) ⭐ 19 | 🐛 13 | 🌐 Python | 📅 2026-10-05 - Silence mypy by adding or removing code comments.
 * [typing-json](https://pypi.org/project/typing-json/) - Lib for working with typed objects and JSON.
 
 ### Helper tools to add annotations to existing code
@@ -132,7 +132,7 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 
 ### Mypy plugins
 
-* [mypy/plugins](https://github.com/python/mypy/tree/master/mypy/plugins) ⭐ 20,669 | 🐛 3,239 | 🌐 Python | 📅 2026-10-05 - Plugins already integrated into mypy.
+* [mypy/plugins](https://github.com/python/mypy/tree/master/mypy/plugins) ⭐ 20,671 | 🐛 3,240 | 🌐 Python | 📅 2026-10-06 - Plugins already integrated into mypy.
 * [mypy-zope](https://github.com/Shoobx/mypy-zope) ⭐ 40 | 🐛 19 | 🌐 Python | 📅 2026-10-05 - Plugin for [zope.interface](https://zopeinterface.readthedocs.io/en/latest/) support.
 * [kubernetes-typed](https://github.com/gordonbondon/kubernetes-typed) ⭐ 26 | 🐛 3 | 🌐 Python | 📅 2024-09-08 - Plugin for Kubernetes [CRD](https://kubernetes.io/docs/tasks/extend-kubernetes/custom-resources/custom-resource-definitions/) type checking.
 * [loguru-mypy](https://github.com/kornicameister/loguru-mypy) ⭐ 22 | 🐛 16 | 🌐 Python | 📅 2024-05-01 - Plugin for [loguru](https://github.com/Delgan/loguru) ⭐ 24,138 | 🐛 259 | 🌐 Python | 📅 2026-10-03 support.
@@ -195,10 +195,10 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 
 ## Related
 
-* [awesome-python](https://github.com/vinta/awesome-python) ⭐ 325,397 | 🐛 19 | 🌐 Python | 📅 2026-10-02 - Curated list of awesome Python frameworks, libraries, software and resources.
+* [awesome-python](https://github.com/vinta/awesome-python) ⭐ 325,510 | 🐛 19 | 🌐 Python | 📅 2026-10-02 - Curated list of awesome Python frameworks, libraries, software and resources.
 * [python-typecheckers](https://github.com/ethanhs/python-typecheckers) ⭐ 76 | 🐛 1 | 📅 2026-03-19 - List of Python type checkers: static and runtime.
 * [Python Developer Tooling Handbook](https://pydevtools.com/) - Comprehensive handbook covering Python type checkers, linters, and development tools with reference pages for [mypy](https://pydevtools.com/handbook/reference/mypy/), [Pyright](https://pydevtools.com/handbook/reference/pyright/), and [ty](https://pydevtools.com/handbook/reference/ty/).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
