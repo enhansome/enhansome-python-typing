@@ -16,7 +16,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-10-26T16:21:37Z",
-            "open_issues": 3232,
+            "open_issues": 3233,
             "owner": "python",
             "repo": "mypy",
             "stars": 20703,
@@ -42,11 +42,11 @@
             "id": 976731654,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-26T07:53:53Z",
-            "open_issues": 982,
+            "last_commit": "2026-10-27T16:21:19Z",
+            "open_issues": 978,
             "owner": "astral-sh",
             "repo": "ty",
-            "stars": 19966,
+            "stars": 19971,
             "topics": []
           },
           "first_seen": "2026-08-29T00:18:36.679Z"
@@ -63,11 +63,11 @@
             "id": 175129788,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-26T19:43:33Z",
-            "open_issues": 378,
+            "last_commit": "2026-10-26T21:20:29Z",
+            "open_issues": 380,
             "owner": "microsoft",
             "repo": "pyright",
-            "stars": 15704,
+            "stars": 15708,
             "topics": []
           },
           "first_seen": "2026-08-29T00:18:36.679Z"
@@ -84,11 +84,11 @@
             "id": 935685654,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-26T20:22:40Z",
-            "open_issues": 756,
+            "last_commit": "2026-10-27T19:06:38Z",
+            "open_issues": 737,
             "owner": "facebook",
             "repo": "pyrefly",
-            "stars": 7151,
+            "stars": 7156,
             "topics": [
               "code-quality",
               "ide",
@@ -156,7 +156,7 @@
             "open_issues": 649,
             "owner": "DetachHead",
             "repo": "basedpyright",
-            "stars": 3635,
+            "stars": 3636,
             "topics": [
               "based",
               "pylance",
@@ -206,11 +206,11 @@
             "id": 872537155,
             "language": "Rust",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-26T15:01:37Z",
-            "open_issues": 79,
+            "last_commit": "2026-10-27T16:35:39Z",
+            "open_issues": 78,
             "owner": "zubanls",
             "repo": "zuban",
-            "stars": 1229,
+            "stars": 1230,
             "topics": [
               "autocompletion",
               "language-server-protocol",
@@ -315,11 +315,11 @@
             "id": 90194616,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-26T20:45:18Z",
-            "open_issues": 589,
+            "last_commit": "2026-10-27T20:18:10Z",
+            "open_issues": 590,
             "owner": "pydantic",
             "repo": "pydantic",
-            "stars": 29200,
+            "stars": 29209,
             "topics": [
               "hints",
               "json-schema",
@@ -339,7 +339,7 @@
         {
           "node_type": "item",
           "title": "beartype",
-          "description": "Unbearably fast runtime type-checking in pure Python.",
+          "description": "Unbearably fast $O(1)$ runtime type-checking in pure Python.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -348,7 +348,7 @@
             "id": 252646465,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-24T07:44:20Z",
+            "last_commit": "2026-10-27T08:01:30Z",
             "open_issues": 132,
             "owner": "beartype",
             "repo": "beartype",
@@ -374,10 +374,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-10-05T18:58:56Z",
-            "open_issues": 58,
+            "open_issues": 59,
             "owner": "agronholm",
             "repo": "typeguard",
-            "stars": 1793,
+            "stars": 1792,
             "topics": []
           },
           "first_seen": "2026-08-29T00:18:36.679Z"
@@ -513,7 +513,7 @@
         {
           "node_type": "item",
           "title": "type_enforced",
-          "description": "Fast runtime type enforcement for annotations with no dependencies. Includes fast O(1) and full O(n) operations.",
+          "description": "Fast runtime type enforcement for annotations with no dependencies. Includes fast $O(1)$ and full $O(n)$ operations.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -560,33 +560,6 @@
       "items": [
         {
           "node_type": "item",
-          "title": "boto3-stubs",
-          "description": "Stubs for boto3.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "AWS SDK for Python (Boto3)",
-            "homepage": "https://aws.amazon.com/sdk-for-python/",
-            "id": 24774658,
-            "language": "Python",
-            "license": "Apache-2.0",
-            "last_commit": "2026-10-26T19:24:07Z",
-            "open_issues": 173,
-            "owner": "boto",
-            "repo": "boto3",
-            "stars": 9924,
-            "topics": [
-              "aws",
-              "aws-sdk",
-              "cloud",
-              "cloud-management",
-              "python"
-            ]
-          },
-          "first_seen": "2026-08-29T00:18:36.679Z"
-        },
-        {
-          "node_type": "item",
           "title": "typeshed",
           "description": "Collection of library stubs, with static types.",
           "children": [],
@@ -597,11 +570,11 @@
             "id": 31696383,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-25T00:23:58Z",
-            "open_issues": 417,
+            "last_commit": "2026-10-27T19:16:10Z",
+            "open_issues": 419,
             "owner": "python",
             "repo": "typeshed",
-            "stars": 5139,
+            "stars": 5141,
             "topics": [
               "python",
               "stub",
@@ -623,11 +596,11 @@
             "id": 142779680,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-26T19:59:50Z",
-            "open_issues": 176,
+            "last_commit": "2026-10-26T21:23:24Z",
+            "open_issues": 175,
             "owner": "typeddjango",
             "repo": "django-stubs",
-            "stars": 1979,
+            "stars": 1980,
             "topics": [
               "django",
               "hacktoberfest",
@@ -690,35 +663,6 @@
         },
         {
           "node_type": "item",
-          "title": "types-aiobotocore",
-          "description": "Stubs for aiobotocore.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "asyncio support for botocore library using aiohttp",
-            "homepage": "https://aiobotocore.aio-libs.org",
-            "id": 36618494,
-            "language": "Python",
-            "license": "Apache-2.0",
-            "last_commit": "2026-10-26T12:45:30Z",
-            "open_issues": 24,
-            "owner": "aio-libs",
-            "repo": "aiobotocore",
-            "stars": 1428,
-            "topics": [
-              "aiohttp",
-              "asyncio",
-              "aws",
-              "aws-sdk",
-              "botocore",
-              "cloud",
-              "cloud-management"
-            ]
-          },
-          "first_seen": "2026-08-29T00:18:36.679Z"
-        },
-        {
-          "node_type": "item",
           "title": "sqlalchemy-stubs",
           "description": "Stubs for SQLAlchemy.",
           "children": [],
@@ -758,8 +702,8 @@
             "id": 157137780,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-26T19:59:49Z",
-            "open_issues": 70,
+            "last_commit": "2026-10-27T03:56:00Z",
+            "open_issues": 71,
             "owner": "typeddjango",
             "repo": "djangorestframework-stubs",
             "stars": 541,
@@ -789,7 +733,7 @@
             "open_issues": 15,
             "owner": "sbdchd",
             "repo": "celery-types",
-            "stars": 158,
+            "stars": 159,
             "topics": [
               "amqp",
               "billiard",
@@ -815,7 +759,7 @@
             "id": 845808791,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-24T20:13:48Z",
+            "last_commit": "2026-10-27T17:37:07Z",
             "open_issues": 14,
             "owner": "scipy",
             "repo": "scipy-stubs",
@@ -865,8 +809,8 @@
             "id": 140297350,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-23T19:51:01Z",
-            "open_issues": 13,
+            "last_commit": "2026-10-27T20:13:24Z",
+            "open_issues": 14,
             "owner": "python-qt-tools",
             "repo": "PyQt5-stubs",
             "stars": 71,
@@ -943,6 +887,27 @@
         },
         {
           "node_type": "item",
+          "title": "boto3-stubs",
+          "description": "Stubs for boto3.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Type annotations and code completion for boto3 package",
+            "homepage": null,
+            "id": 895073035,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-10-27T02:46:09Z",
+            "open_issues": 0,
+            "owner": "youtype",
+            "repo": "types-boto3",
+            "stars": 6,
+            "topics": []
+          },
+          "first_seen": "2026-10-27T20:20:45.772Z"
+        },
+        {
+          "node_type": "item",
           "title": "python-phonenumbers-stubs",
           "description": "Stubs for phonenumbers.",
           "children": [],
@@ -961,6 +926,32 @@
             "topics": []
           },
           "first_seen": "2026-08-29T00:18:36.679Z"
+        },
+        {
+          "node_type": "item",
+          "title": "types-aiobotocore",
+          "description": "Stubs for aiobotocore.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Auto-generated documentation for types-aiobotocore",
+            "homepage": "https://youtype.github.io/types_aiobotocore_docs/",
+            "id": 455714395,
+            "language": "JavaScript",
+            "license": null,
+            "last_commit": "2026-05-10T03:54:37Z",
+            "open_issues": 0,
+            "owner": "youtype",
+            "repo": "types_aiobotocore_docs",
+            "stars": 0,
+            "topics": [
+              "aiobotocore",
+              "autogenerated",
+              "documentation",
+              "types"
+            ]
+          },
+          "first_seen": "2026-10-27T20:20:45.772Z"
         }
       ],
       "title": "Stub packages"
@@ -980,11 +971,11 @@
             "id": 167689891,
             "language": "Python",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-10-26T14:15:12Z",
-            "open_issues": 83,
+            "last_commit": "2026-10-27T18:08:49Z",
+            "open_issues": 77,
             "owner": "dry-python",
             "repo": "returns",
-            "stars": 4381,
+            "stars": 4382,
             "topics": [
               "dry-python",
               "fp",
@@ -1000,6 +991,27 @@
             ]
           },
           "first_seen": "2026-08-29T00:18:36.679Z"
+        },
+        {
+          "node_type": "item",
+          "title": "annotated-types",
+          "description": "Reusable constraint types to use with .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Reusable constraint types to use with typing.Annotated",
+            "homepage": null,
+            "id": 487934134,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-10-27T10:46:57Z",
+            "open_issues": 8,
+            "owner": "annotated-types",
+            "repo": "annotated-types",
+            "stars": 615,
+            "topics": []
+          },
+          "first_seen": "2026-10-27T20:20:45.772Z"
         },
         {
           "node_type": "item",
@@ -1114,6 +1126,27 @@
         },
         {
           "node_type": "item",
+          "title": "annotated-doc",
+          "description": "Document parameters, class attributes, return types, and variables inline, with .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Document parameters, class attributes, return types, and variables inline, with Annotated.",
+            "homepage": null,
+            "id": 1079997638,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-10-15T15:21:07Z",
+            "open_issues": 0,
+            "owner": "fastapi",
+            "repo": "annotated-doc",
+            "stars": 82,
+            "topics": []
+          },
+          "first_seen": "2026-10-27T20:20:45.772Z"
+        },
+        {
+          "node_type": "item",
           "title": "meiga",
           "description": "Simple, typed and monad-based Result type.",
           "children": [],
@@ -1167,38 +1200,6 @@
               "rust-result",
               "typesafe",
               "typing"
-            ]
-          },
-          "first_seen": "2026-08-29T00:18:36.679Z"
-        },
-        {
-          "node_type": "item",
-          "title": "typet",
-          "description": "Length-bounded types, dynamic object validation.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "description": "Types that make coding in Python quick and safe.",
-            "homepage": null,
-            "id": 110417407,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2019-10-21T06:34:50Z",
-            "open_issues": 9,
-            "owner": "contains-io",
-            "repo": "typet",
-            "stars": 23,
-            "topics": [
-              "attributes",
-              "classes",
-              "objects",
-              "pep484",
-              "pep526",
-              "python",
-              "schema",
-              "typehinting",
-              "typing",
-              "validation"
             ]
           },
           "first_seen": "2026-08-29T00:18:36.679Z"
@@ -1292,11 +1293,11 @@
                 "id": 523043277,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-10-26T20:44:22Z",
-                "open_issues": 2233,
+                "last_commit": "2026-10-27T20:09:07Z",
+                "open_issues": 2231,
                 "owner": "astral-sh",
                 "repo": "ruff",
-                "stars": 50306,
+                "stars": 50320,
                 "topics": [
                   "linter",
                   "pep8",
@@ -1325,8 +1326,8 @@
                 "id": 124593057,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-26T17:06:59Z",
-                "open_issues": 12,
+                "last_commit": "2026-10-26T21:23:10Z",
+                "open_issues": 11,
                 "owner": "wemake-services",
                 "repo": "wemake-python-styleguide",
                 "stars": 2940,
@@ -1638,7 +1639,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-26T16:21:37Z",
-                "open_issues": 3232,
+                "open_issues": 3233,
                 "owner": "python",
                 "repo": "mypy",
                 "stars": 20703,
@@ -1697,7 +1698,7 @@
                 "open_issues": 31,
                 "owner": "nipunn1313",
                 "repo": "mypy-protobuf",
-                "stars": 709,
+                "stars": 710,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:18:36.679Z"
@@ -1881,7 +1882,7 @@
                 "id": 364940215,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-26T17:45:15Z",
+                "last_commit": "2026-10-27T02:08:51Z",
                 "open_issues": 14,
                 "owner": "whtsky",
                 "repo": "mypy-silent",
@@ -1943,10 +1944,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-02-11T02:19:15Z",
-                "open_issues": 79,
+                "open_issues": 80,
                 "owner": "Instagram",
                 "repo": "MonkeyType",
-                "stars": 5006,
+                "stars": 5003,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:18:36.679Z"
@@ -2220,7 +2221,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-26T16:21:37Z",
-                "open_issues": 3232,
+                "open_issues": 3233,
                 "owner": "python",
                 "repo": "mypy",
                 "stars": 20703,
@@ -2367,7 +2368,7 @@
             "open_issues": 16,
             "owner": "microsoft",
             "repo": "pylance-release",
-            "stars": 2135,
+            "stars": 2155,
             "topics": [
               "code-analysis",
               "language-server",
@@ -2484,7 +2485,7 @@
             "id": 90552201,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-26T04:07:21Z",
+            "last_commit": "2026-10-26T20:56:05Z",
             "open_issues": 56,
             "owner": "ymyzk",
             "repo": "mypy-playground",
@@ -2543,11 +2544,11 @@
             "id": 21289110,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-26T04:44:34Z",
-            "open_issues": 18,
+            "last_commit": "2026-10-27T13:08:24Z",
+            "open_issues": 20,
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 330449,
+            "stars": 330666,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2585,7 +2586,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T20:49:29.507Z",
+    "last_updated": "2026-10-27T20:20:45.772Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of awesome Python types, stubs, plugins, and tools to work with them.",
@@ -2593,11 +2594,11 @@
       "id": 207661821,
       "language": null,
       "license": "CC-BY-SA-4.0",
-      "last_commit": "2026-10-18T12:07:53Z",
-      "open_issues": 8,
+      "last_commit": "2026-10-27T16:35:47Z",
+      "open_issues": 7,
       "owner": "typeddjango",
       "repo": "awesome-python-typing",
-      "stars": 1990,
+      "stars": 1989,
       "topics": [
         "awesome",
         "awesome-list",
@@ -2611,7 +2612,7 @@
         "python-types"
       ]
     },
-    "original_repository_sha": "456e21538c3a7bdeb3b455aa6a22940652be9955",
+    "original_repository_sha": "5caedabe854137f2eabc6448a5f404adcb3df5ca",
     "enhanced_repository": "enhansome/enhansome-python-typing",
     "enhanced_repository_description": null,
     "title": "Awesome Python Typing with stars"
