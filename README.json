@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-11-20T15:13:05Z",
-            "open_issues": 3251,
+            "open_issues": 3255,
             "owner": "python",
             "repo": "mypy",
-            "stars": 20734,
+            "stars": 20735,
             "topics": [
               "linter",
               "python",
@@ -42,11 +42,11 @@
             "id": 976731654,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-20T07:21:46Z",
-            "open_issues": 1000,
+            "last_commit": "2026-11-22T20:58:09Z",
+            "open_issues": 1002,
             "owner": "astral-sh",
             "repo": "ty",
-            "stars": 20129,
+            "stars": 20136,
             "topics": []
           },
           "first_seen": "2026-08-29T00:18:36.679Z"
@@ -64,10 +64,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-11-20T20:57:47Z",
-            "open_issues": 406,
+            "open_issues": 409,
             "owner": "microsoft",
             "repo": "pyright",
-            "stars": 15753,
+            "stars": 15755,
             "topics": []
           },
           "first_seen": "2026-08-29T00:18:36.679Z"
@@ -84,11 +84,11 @@
             "id": 935685654,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-11-21T21:20:50Z",
+            "last_commit": "2026-11-22T17:29:06Z",
             "open_issues": 495,
             "owner": "pyrefly-org",
             "repo": "pyrefly",
-            "stars": 7227,
+            "stars": 7238,
             "topics": [
               "code-quality",
               "ide",
@@ -156,7 +156,7 @@
             "open_issues": 654,
             "owner": "DetachHead",
             "repo": "basedpyright",
-            "stars": 3655,
+            "stars": 3656,
             "topics": [
               "based",
               "pylance",
@@ -183,7 +183,7 @@
             "open_issues": 10,
             "owner": "mtshiba",
             "repo": "pylyzer",
-            "stars": 2850,
+            "stars": 2849,
             "topics": [
               "language-server",
               "python",
@@ -207,7 +207,7 @@
             "language": "Rust",
             "license": "NOASSERTION",
             "last_commit": "2026-11-21T19:27:46Z",
-            "open_issues": 73,
+            "open_issues": 74,
             "owner": "zubanls",
             "repo": "zuban",
             "stars": 1247,
@@ -319,7 +319,7 @@
             "open_issues": 650,
             "owner": "pydantic",
             "repo": "pydantic",
-            "stars": 29609,
+            "stars": 29626,
             "topics": [
               "hints",
               "json-schema",
@@ -349,7 +349,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-11-21T07:27:16Z",
-            "open_issues": 140,
+            "open_issues": 142,
             "owner": "beartype",
             "repo": "beartype",
             "stars": 3519,
@@ -373,11 +373,11 @@
             "id": 48664140,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-20T11:39:42Z",
+            "last_commit": "2026-11-22T15:33:28Z",
             "open_issues": 71,
             "owner": "agronholm",
             "repo": "typeguard",
-            "stars": 1794,
+            "stars": 1795,
             "topics": []
           },
           "first_seen": "2026-08-29T00:18:36.679Z"
@@ -530,11 +530,11 @@
             "id": 31696383,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-21T14:29:35Z",
-            "open_issues": 441,
+            "last_commit": "2026-11-22T18:57:26Z",
+            "open_issues": 440,
             "owner": "python",
             "repo": "typeshed",
-            "stars": 5156,
+            "stars": 5157,
             "topics": [
               "python",
               "stub",
@@ -556,7 +556,7 @@
             "id": 142779680,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-21T13:50:06Z",
+            "last_commit": "2026-11-22T06:31:13Z",
             "open_issues": 101,
             "owner": "typeddjango",
             "repo": "django-stubs",
@@ -639,7 +639,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-11-20T22:31:11Z",
-            "open_issues": 57,
+            "open_issues": 58,
             "owner": "typeddjango",
             "repo": "djangorestframework-stubs",
             "stars": 541,
@@ -1141,7 +1141,7 @@
             "open_issues": 19,
             "owner": "python",
             "repo": "typing_extensions",
-            "stars": 595,
+            "stars": 596,
             "topics": []
           },
           "first_seen": "2026-08-29T00:18:36.679Z"
@@ -1208,11 +1208,11 @@
                 "id": 523043277,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-11-21T20:48:02Z",
-                "open_issues": 2355,
+                "last_commit": "2026-11-22T21:09:46Z",
+                "open_issues": 2337,
                 "owner": "astral-sh",
                 "repo": "ruff",
-                "stars": 51338,
+                "stars": 51445,
                 "topics": [
                   "linter",
                   "pep8",
@@ -1242,7 +1242,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-11-21T13:20:11Z",
-                "open_issues": 11,
+                "open_issues": 12,
                 "owner": "wemake-services",
                 "repo": "wemake-python-styleguide",
                 "stars": 2951,
@@ -1360,7 +1360,7 @@
                 "open_issues": 25,
                 "owner": "PyCQA",
                 "repo": "flake8-pyi",
-                "stars": 85,
+                "stars": 86,
                 "topics": [
                   "flake8",
                   "lint",
@@ -1397,32 +1397,6 @@
                   "complexity",
                   "flake8",
                   "flake8-plugin"
-                ]
-              },
-              "first_seen": "2026-08-29T00:18:36.679Z"
-            },
-            {
-              "node_type": "item",
-              "title": "flake8-typing-imports",
-              "description": "Plugin which checks that typing imports are properly guarded.",
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "description": "flake8 plugin which checks that typing imports are properly guarded",
-                "homepage": null,
-                "id": 187746679,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2026-10-12T21:58:37Z",
-                "open_issues": 0,
-                "owner": "asottile-archive",
-                "repo": "flake8-typing-imports",
-                "stars": 51,
-                "topics": [
-                  "flake8",
-                  "mypy",
-                  "pre-commit",
-                  "typing"
                 ]
               },
               "first_seen": "2026-08-29T00:18:36.679Z"
@@ -1467,7 +1441,7 @@
                 "id": 159567593,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-19T18:15:19Z",
+                "last_commit": "2026-11-22T17:34:45Z",
                 "open_issues": 19,
                 "owner": "typeddjango",
                 "repo": "pytest-mypy-plugins",
@@ -1554,10 +1528,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-20T15:13:05Z",
-                "open_issues": 3251,
+                "open_issues": 3255,
                 "owner": "python",
                 "repo": "mypy",
-                "stars": 20734,
+                "stars": 20735,
                 "topics": [
                   "linter",
                   "python",
@@ -1790,35 +1764,6 @@
           "children": [
             {
               "node_type": "item",
-              "title": "pytype annotate-ast",
-              "description": "A work-in-progress tool to annotate the nodes of an AST with their Python types.",
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "description": "A static type analyzer for Python code",
-                "homepage": "https://google.github.io/pytype",
-                "id": 32483713,
-                "language": "Python",
-                "license": "NOASSERTION",
-                "last_commit": "2026-03-16T14:08:32Z",
-                "open_issues": 5,
-                "owner": "google",
-                "repo": "pytype",
-                "stars": 5033,
-                "topics": [
-                  "linter",
-                  "python",
-                  "static-analysis",
-                  "static-code-analysis",
-                  "typechecker",
-                  "types",
-                  "typing"
-                ]
-              },
-              "first_seen": "2026-08-29T00:18:36.679Z"
-            },
-            {
-              "node_type": "item",
               "title": "monkeytype",
               "description": "Collects runtime types of function arguments and return values, and can automatically generate stub files or even add draft type annotations directly to your code based on the types collected at runtime.",
               "children": [],
@@ -1854,7 +1799,7 @@
                 "open_issues": 40,
                 "owner": "dropbox",
                 "repo": "pyannotate",
-                "stars": 1444,
+                "stars": 1445,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:18:36.679Z"
@@ -1899,7 +1844,7 @@
                 "open_issues": 8,
                 "owner": "JelleZijlstra",
                 "repo": "autotyping",
-                "stars": 286,
+                "stars": 287,
                 "topics": [
                   "mypy",
                   "python",
@@ -2041,30 +1986,29 @@
             },
             {
               "node_type": "item",
-              "title": "auto-optional",
-              "description": "Makes typed arguments Optional when the default argument is .",
+              "title": "typeshed_client",
+              "description": "Retrieve information from typeshed and other typing stubs.",
               "children": [],
               "repo_info": {
-                "archived": true,
-                "description": "Makes typed arguments Optional when the default argument is None",
-                "homepage": "https://auto-optional.daanluttik.nl/",
-                "id": 401387202,
+                "archived": false,
+                "description": "Retrieve information from typeshed and other typing stubs",
+                "homepage": null,
+                "id": 89016131,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-05-10T13:48:41Z",
-                "open_issues": 5,
-                "owner": "Luttik",
-                "repo": "auto-optional",
-                "stars": 20,
+                "last_commit": "2026-11-07T15:33:19Z",
+                "open_issues": 7,
+                "owner": "JelleZijlstra",
+                "repo": "typeshed_client",
+                "stars": 32,
                 "topics": [
-                  "code-quality",
-                  "pypi",
+                  "pep484",
                   "python",
-                  "python3",
-                  "refactoring"
+                  "typeshed",
+                  "typing"
                 ]
               },
-              "first_seen": "2026-08-29T00:18:36.679Z"
+              "first_seen": "2026-11-22T21:26:06.450Z"
             }
           ],
           "description": null,
@@ -2086,10 +2030,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-20T15:13:05Z",
-                "open_issues": 3251,
+                "open_issues": 3255,
                 "owner": "python",
                 "repo": "mypy",
-                "stars": 20734,
+                "stars": 20735,
                 "topics": [
                   "linter",
                   "python",
@@ -2209,7 +2153,7 @@
             "language": "Python",
             "license": "CC-BY-4.0",
             "last_commit": "2026-11-04T19:01:58Z",
-            "open_issues": 29,
+            "open_issues": 30,
             "owner": "microsoft",
             "repo": "pylance-release",
             "stars": 2171,
@@ -2371,7 +2315,7 @@
             "open_issues": 22,
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 336252,
+            "stars": 336466,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2409,7 +2353,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T21:23:17.593Z",
+    "last_updated": "2026-11-22T21:26:06.450Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of awesome Python types, stubs, plugins, and tools to work with them.",
@@ -2417,11 +2361,11 @@
       "id": 207661821,
       "language": null,
       "license": "CC-BY-SA-4.0",
-      "last_commit": "2026-11-20T15:27:00Z",
-      "open_issues": 8,
+      "last_commit": "2026-11-22T20:09:29Z",
+      "open_issues": 7,
       "owner": "typeddjango",
       "repo": "awesome-python-typing",
-      "stars": 1992,
+      "stars": 1993,
       "topics": [
         "awesome",
         "awesome-list",
@@ -2435,7 +2379,7 @@
         "python-types"
       ]
     },
-    "original_repository_sha": "b041f1f1033a4cbdebc40dbe4d4de2fb7ec0503d",
+    "original_repository_sha": "87079afe26f3291498c8c34ec5fb0b1758916fae",
     "enhanced_repository": "enhansome/enhansome-python-typing",
     "enhanced_repository_description": null,
     "title": "Awesome Python Typing with stars"
